@@ -58,6 +58,7 @@ a.YT{
     box-sizing: border-box;
     border: solid 5px;
     border-color: rgba(0, 0, 0, 0.651);
+    min-width:750px;
 }
 .name-in-info{
     margin-top: -15px;
